@@ -18,9 +18,15 @@ To explore user behaviors and system usage patterns through data visualization a
 
 | File | Description |
 |------|-------------|
-| `CITI BIKE SYSTEM IN NEWYORK CITY 2013.csv` | Raw dataset with bike trips from 2013 |
 | `CITI BIKE SYSTEM IN NEWYORK CITY 2013.pdf` | Project report with questions and insights |
 | `CitiBike System Data edited.twbx` | Tableau workbook with all visualizations |
+
+### 🔗 Tableau Workbook
+
+Due to file size limits on GitHub, the Tableau packaged workbook is hosted externally.
+
+📥 [Click here to download the Tableau Dashboard (.twbx)](https://drive.google.com/file/d/15TiUsEoDjAfn8f6c485Yg3T-r3F1iNmY/view?usp=sharing)
+
 
 ## 🛠 Tools Used
 - **Tableau** for data visualization
