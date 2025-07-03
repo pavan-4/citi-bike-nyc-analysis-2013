@@ -29,8 +29,6 @@ To explore user behaviors and system usage patterns through data visualization a
 
 ## 🧑‍🎓 Author
 - **Pavan Kumar Gadegani**
-- Student ID: 20034930
-- Module: Data Visualization (B9DA106)
 
 ## 📬 Contact
 Feel free to connect or ask questions via [LinkedIn]
